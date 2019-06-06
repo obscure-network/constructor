@@ -1,0 +1,8 @@
+<table class="mdl-data-table mdl-js-data-table" style="width:100%">
+  <thead>
+    $th
+  </thead>
+  <tbody>
+    $td
+  </tbody>
+</table>
